@@ -1,7 +1,8 @@
-# DARIO VICTOR OZUNA
-===================
+# _DARIO VICTOR OZUNA_
+
 ## Legajo:175.996-6
-![imagen_temporal](Imagen_temporal.png =720x)
+<img src="Imagen_temporal.png" width="200" alt="Imagen_de_prueba">
+
 _Imagen temporal_
 
 
