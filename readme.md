@@ -1,7 +1,7 @@
 # DARIO VICTOR OZUNA
 ===================
 ## Legajo:175.996-6
-![imagen_temporal](Imagen_temporal.png =720px)
+![imagen_temporal](Imagen_temporal.png =720x)
 _Imagen temporal_
 
 
